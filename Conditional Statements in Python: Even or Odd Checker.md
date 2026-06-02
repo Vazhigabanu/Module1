@@ -28,6 +28,8 @@ else:
     print("ODD")
 ```
 Output
+
+
 <img width="798" height="121" alt="image" src="https://github.com/user-attachments/assets/5ce3f9d4-1d8f-416e-9cc8-b4ce755c74cf" />
 
 Result
